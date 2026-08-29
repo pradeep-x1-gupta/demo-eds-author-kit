@@ -1,0 +1,610 @@
+{
+  "captured": "2026-08-29T16:04:36.169Z",
+  "totalUniqueUrls": 127518,
+  "perSitemap": [
+    {
+      "url": "https://healthy.kaiserpermanente.org/sitemap",
+      "kind": "main",
+      "status": 200,
+      "ok": true,
+      "count": 1372
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/sitemap-healthenc.xml",
+      "kind": "health-encyclopedia",
+      "status": 200,
+      "ok": true,
+      "count": 9337
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/sitemap-drugenc.xml",
+      "kind": "drug-encyclopedia",
+      "status": 200,
+      "ok": true,
+      "count": 22139
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/northern-california/sitemap",
+      "kind": "region",
+      "region": "northern-california",
+      "status": 200,
+      "ok": true,
+      "count": 1716
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/northern-california/facilities/sitemap",
+      "kind": "facilities",
+      "region": "northern-california",
+      "status": 200,
+      "ok": true,
+      "count": 1516
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/northern-california/facilities/departments/sitemap",
+      "kind": "departments",
+      "region": "northern-california",
+      "status": 200,
+      "ok": true,
+      "count": 4885
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/southern-california/sitemap",
+      "kind": "region",
+      "region": "southern-california",
+      "status": 200,
+      "ok": true,
+      "count": 1630
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/sitemap",
+      "kind": "facilities",
+      "region": "southern-california",
+      "status": 200,
+      "ok": true,
+      "count": 2164
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/southern-california/facilities/departments/sitemap",
+      "kind": "departments",
+      "region": "southern-california",
+      "status": 200,
+      "ok": true,
+      "count": 5019
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/colorado/sitemap",
+      "kind": "region",
+      "region": "colorado",
+      "status": 200,
+      "ok": true,
+      "count": 1579
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/colorado/facilities/sitemap",
+      "kind": "facilities",
+      "region": "colorado",
+      "status": 200,
+      "ok": true,
+      "count": 762
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/colorado/facilities/departments/sitemap",
+      "kind": "departments",
+      "region": "colorado",
+      "status": 200,
+      "ok": true,
+      "count": 1230
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/georgia/sitemap",
+      "kind": "region",
+      "region": "georgia",
+      "status": 200,
+      "ok": true,
+      "count": 1572
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/georgia/facilities/sitemap",
+      "kind": "facilities",
+      "region": "georgia",
+      "status": 200,
+      "ok": true,
+      "count": 417
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/georgia/facilities/departments/sitemap",
+      "kind": "departments",
+      "region": "georgia",
+      "status": 200,
+      "ok": true,
+      "count": 717
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/hawaii/sitemap",
+      "kind": "region",
+      "region": "hawaii",
+      "status": 200,
+      "ok": true,
+      "count": 1514
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/hawaii/facilities/sitemap",
+      "kind": "facilities",
+      "region": "hawaii",
+      "status": 200,
+      "ok": true,
+      "count": 1365
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/hawaii/facilities/departments/sitemap",
+      "kind": "departments",
+      "region": "hawaii",
+      "status": 200,
+      "ok": true,
+      "count": 2158
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/maryland-virginia-washington-dc/sitemap",
+      "kind": "region",
+      "region": "maryland-virginia-washington-dc",
+      "status": 200,
+      "ok": true,
+      "count": 1572
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/maryland-virginia-washington-dc/facilities/sitemap",
+      "kind": "facilities",
+      "region": "maryland-virginia-washington-dc",
+      "status": 200,
+      "ok": true,
+      "count": 53
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/maryland-virginia-washington-dc/facilities/departments/sitemap",
+      "kind": "departments",
+      "region": "maryland-virginia-washington-dc",
+      "status": 200,
+      "ok": true,
+      "count": 733
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/oregon-washington/sitemap",
+      "kind": "region",
+      "region": "oregon-washington",
+      "status": 200,
+      "ok": true,
+      "count": 1524
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/oregon-washington/facilities/sitemap",
+      "kind": "facilities",
+      "region": "oregon-washington",
+      "status": 200,
+      "ok": true,
+      "count": 764
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/oregon-washington/facilities/departments/sitemap",
+      "kind": "departments",
+      "region": "oregon-washington",
+      "status": 200,
+      "ok": true,
+      "count": 1679
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/washington/sitemap",
+      "kind": "region",
+      "region": "washington",
+      "status": 200,
+      "ok": true,
+      "count": 1438
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/washington/facilities/sitemap",
+      "kind": "facilities",
+      "region": "washington",
+      "status": 200,
+      "ok": true,
+      "count": 35
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/washington/facilities/departments/sitemap",
+      "kind": "departments",
+      "region": "washington",
+      "status": 200,
+      "ok": true,
+      "count": 536
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/southern-california/physicians/sitemap",
+      "kind": "doctors",
+      "region": "southern-california",
+      "status": 200,
+      "ok": true,
+      "count": 26674
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/colorado/clinicians/sitemap",
+      "kind": "doctors",
+      "region": "colorado",
+      "status": 200,
+      "ok": true,
+      "count": 15810
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/georgia/clinicians/sitemap",
+      "kind": "doctors",
+      "region": "georgia",
+      "status": 200,
+      "ok": true,
+      "count": 4086
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/hawaii/provider/sitemap",
+      "kind": "doctors",
+      "region": "hawaii",
+      "status": 200,
+      "ok": true,
+      "count": 904
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/oregon-washington/clinicians/sitemap",
+      "kind": "doctors",
+      "region": "oregon-washington",
+      "status": 200,
+      "ok": true,
+      "count": 9289
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/washington/clinicians/sitemap",
+      "kind": "doctors",
+      "region": "washington",
+      "status": 200,
+      "ok": true,
+      "count": 1329
+    }
+  ],
+  "regionCounts": {
+    "(none)": 32848,
+    "northern-california": 8117,
+    "southern-california": 35487,
+    "colorado": 19381,
+    "georgia": 6792,
+    "hawaii": 5941,
+    "maryland-virginia-washington-dc": 2358,
+    "oregon-washington": 13256,
+    "washington": 3338
+  },
+  "areaBuckets": {
+    "providers": {
+      "count": 58300,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/community-providers/cigna-ppo-network-providers/eligibility",
+        "https://healthy.kaiserpermanente.org/community-providers/cigna-ppo-network-providers/member-info",
+        "https://healthy.kaiserpermanente.org/community-providers/permanente-advantage/about",
+        "https://healthy.kaiserpermanente.org/doctors-locations",
+        "https://healthy.kaiserpermanente.org/doctors-locations/price-transparency",
+        "https://healthy.kaiserpermanente.org/doctors-locations/affiliated-providers",
+        "https://healthy.kaiserpermanente.org/doctors-locations/breastfeeding-resources",
+        "https://healthy.kaiserpermanente.org/doctors-locations/durable-medical-equipment"
+      ]
+    },
+    "health-content": {
+      "count": 41031,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/health-wellness",
+        "https://healthy.kaiserpermanente.org/health-wellness/addiction-and-recovery",
+        "https://healthy.kaiserpermanente.org/health-wellness/addiction-and-recovery/understanding-addiction",
+        "https://healthy.kaiserpermanente.org/health-wellness/addiction-and-recovery/drug-and-alcohol-treatment",
+        "https://healthy.kaiserpermanente.org/health-wellness/alcohol-care",
+        "https://healthy.kaiserpermanente.org/health-wellness/alcohol-care/options",
+        "https://healthy.kaiserpermanente.org/health-wellness/alcohol-care/options/low-risk",
+        "https://healthy.kaiserpermanente.org/health-wellness/alcohol-care/options/increased-risk"
+      ]
+    },
+    "facility-departments": {
+      "count": 16954,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/clovis-medical-offices-100376/departments/pediatrics-dlp-102423",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/petaluma-medical-offices-100341/departments/pediatrics-dlp-102521",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/bangs-avenue-medical-offices-100383/departments/pediatrics-dlp-102546",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/oakhurst-medical-offices-100345/departments/pediatrics-dlp-102558",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/selma-medical-offices-100321/departments/pediatrics-dlp-102565",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/tracy-medical-offices-100317/departments/pediatrics-dlp-102631",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/modesto-medical-center-and-medical-offices-100301/departments/pediatrics-dlp-102672",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/san-jose-medical-center-100322/departments/pediatrics-dlp-102739"
+      ]
+    },
+    "facilities": {
+      "count": 7074,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/3-prong-inc-burlingame-135261",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/3-prong-inc-fremont-135253",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/a1-home-health-461425",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/abl-health-care-llc-472244",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/acc-care-center-339045",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/accentcare-home-health-petaluma-472016",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/accentcare-pleasant-hill-472040",
+        "https://healthy.kaiserpermanente.org/northern-california/facilities/accentcare-rancho-cordova-472036"
+      ]
+    },
+    "member-portal": {
+      "count": 1374,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/new-members/before-coverage-starts",
+        "https://healthy.kaiserpermanente.org/pages/securepages",
+        "https://healthy.kaiserpermanente.org/pages/securepages/appointments",
+        "https://healthy.kaiserpermanente.org/pages/securepages/appointments/evisits/help",
+        "https://healthy.kaiserpermanente.org/pages/securepages/appointments/expresscheckin",
+        "https://healthy.kaiserpermanente.org/pages/securepages/appointments/mdo-redirect",
+        "https://healthy.kaiserpermanente.org/pages/securepages/appointments/past-visits",
+        "https://healthy.kaiserpermanente.org/pages/securepages/appointments/referrals"
+      ]
+    },
+    "plans-enrollment": {
+      "count": 1019,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/language-assistance/nondiscrimination-notice/medicaid",
+        "https://healthy.kaiserpermanente.org/language-assistance/nondiscrimination-notice/medicare",
+        "https://healthy.kaiserpermanente.org/language-assistance/medicare",
+        "https://healthy.kaiserpermanente.org/learn/how-high-deductible-health-plans-work",
+        "https://healthy.kaiserpermanente.org/learn/how-health-insurance-works",
+        "https://healthy.kaiserpermanente.org/learn/whole-big-thing/explore-plans",
+        "https://healthy.kaiserpermanente.org/learn/hc.health-insurance-for-young-adults",
+        "https://healthy.kaiserpermanente.org/learn/hc.what-is-an-insurance-premium"
+      ]
+    },
+    "other:support": {
+      "count": 591,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/support",
+        "https://healthy.kaiserpermanente.org/support/medical-requests-myc",
+        "https://healthy.kaiserpermanente.org/support/medical-requests",
+        "https://healthy.kaiserpermanente.org/support/forms",
+        "https://healthy.kaiserpermanente.org/support/forms/documents",
+        "https://healthy.kaiserpermanente.org/support/forms/documents/individual-family",
+        "https://healthy.kaiserpermanente.org/support/forms/documents/individual-family/archive",
+        "https://healthy.kaiserpermanente.org/support/forms/documents/individual-family/legacy"
+      ]
+    },
+    "other:learn": {
+      "count": 303,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/learn",
+        "https://healthy.kaiserpermanente.org/learn/nevada",
+        "https://healthy.kaiserpermanente.org/learn/preparing-for-a-physical-exam",
+        "https://healthy.kaiserpermanente.org/learn/find-the-right-doctor",
+        "https://healthy.kaiserpermanente.org/learn/fsa-hsa-contribution",
+        "https://healthy.kaiserpermanente.org/learn/what-is-kaiser-permanente",
+        "https://healthy.kaiserpermanente.org/learn/preventive-services",
+        "https://healthy.kaiserpermanente.org/learn/health-plan-costs"
+      ]
+    },
+    "other:pages": {
+      "count": 296,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/pages/premium-bill",
+        "https://healthy.kaiserpermanente.org/pages/search",
+        "https://healthy.kaiserpermanente.org/pages/search/proximity",
+        "https://healthy.kaiserpermanente.org/pages/technical-information",
+        "https://healthy.kaiserpermanente.org/pages/online-security",
+        "https://healthy.kaiserpermanente.org/pages/online-security/safe-computing",
+        "https://healthy.kaiserpermanente.org/pages/online-security/protecting-personal-information",
+        "https://healthy.kaiserpermanente.org/pages/online-security/spotting-online-scams"
+      ]
+    },
+    "other:get-care": {
+      "count": 219,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/get-care",
+        "https://healthy.kaiserpermanente.org/get-care/traveling",
+        "https://healthy.kaiserpermanente.org/get-care/traveling/travel-clinics",
+        "https://healthy.kaiserpermanente.org/get-care/traveling/college",
+        "https://healthy.kaiserpermanente.org/get-care/traveling/costs-claims",
+        "https://healthy.kaiserpermanente.org/get-care/traveling/care-inside-KP-area",
+        "https://healthy.kaiserpermanente.org/get-care/traveling/care-outside-KP-area",
+        "https://healthy.kaiserpermanente.org/get-care/interpreter-services"
+      ]
+    },
+    "legal-utility": {
+      "count": 126,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/language-assistance/nondiscrimination-notice",
+        "https://healthy.kaiserpermanente.org/learn/hc.5-health-care-terms",
+        "https://healthy.kaiserpermanente.org/legal-regulatory/reports/cms-prior-authorization",
+        "https://healthy.kaiserpermanente.org/pages/web-accessibility-commitment",
+        "https://healthy.kaiserpermanente.org/pages/quality-safety/protecting-privacy",
+        "https://healthy.kaiserpermanente.org/support/pay-bills/medical-bills/medicalbillpay-termsandconditions",
+        "https://healthy.kaiserpermanente.org/support/health-record-access-update/third-party-app-privacy",
+        "https://healthy.kaiserpermanente.org/support/glossary-claim-terms"
+      ]
+    },
+    "other:help-paying-your-bill": {
+      "count": 38,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/help-paying-your-bill",
+        "https://healthy.kaiserpermanente.org/help-paying-your-bill/medical-financial-assistance",
+        "https://healthy.kaiserpermanente.org/help-paying-your-bill/medical-financial-assistance/documents",
+        "https://healthy.kaiserpermanente.org/help-paying-your-bill/dental-financial-assistance",
+        "https://healthy.kaiserpermanente.org/northern-california/help-paying-your-bill",
+        "https://healthy.kaiserpermanente.org/northern-california/help-paying-your-bill/medical-financial-assistance",
+        "https://healthy.kaiserpermanente.org/northern-california/help-paying-your-bill/medical-financial-assistance/documents",
+        "https://healthy.kaiserpermanente.org/northern-california/help-paying-your-bill/dental-financial-assistance"
+      ]
+    },
+    "other:front-door": {
+      "count": 37,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/front-door",
+        "https://healthy.kaiserpermanente.org/front-door/machine-readable",
+        "https://healthy.kaiserpermanente.org/front-door/machine-readable-co-state",
+        "https://healthy.kaiserpermanente.org/front-door/machine-readable-co-federal",
+        "https://healthy.kaiserpermanente.org/northern-california/front-door",
+        "https://healthy.kaiserpermanente.org/northern-california/front-door/machine-readable",
+        "https://healthy.kaiserpermanente.org/northern-california/front-door/machine-readable-co-state",
+        "https://healthy.kaiserpermanente.org/northern-california/front-door/machine-readable-co-federal"
+      ]
+    },
+    "other:register": {
+      "count": 36,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/register",
+        "https://healthy.kaiserpermanente.org/register/caregiver",
+        "https://healthy.kaiserpermanente.org/register/outage-alert",
+        "https://healthy.kaiserpermanente.org/register/complete-registration",
+        "https://healthy.kaiserpermanente.org/northern-california/register",
+        "https://healthy.kaiserpermanente.org/northern-california/register/caregiver",
+        "https://healthy.kaiserpermanente.org/northern-california/register/outage-alert",
+        "https://healthy.kaiserpermanente.org/northern-california/register/complete-registration"
+      ]
+    },
+    "other:microsites": {
+      "count": 27,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/microsites",
+        "https://healthy.kaiserpermanente.org/microsites/bofa",
+        "https://healthy.kaiserpermanente.org/microsites/bofa/plan-details",
+        "https://healthy.kaiserpermanente.org/northern-california/microsites",
+        "https://healthy.kaiserpermanente.org/northern-california/microsites/bofa",
+        "https://healthy.kaiserpermanente.org/northern-california/microsites/bofa/plan-details",
+        "https://healthy.kaiserpermanente.org/southern-california/microsites",
+        "https://healthy.kaiserpermanente.org/southern-california/microsites/bofa"
+      ]
+    },
+    "other:billpay": {
+      "count": 14,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/billpay",
+        "https://healthy.kaiserpermanente.org/northern-california/billpay",
+        "https://healthy.kaiserpermanente.org/northern-california/billpay/billing-system-transition-faq",
+        "https://healthy.kaiserpermanente.org/southern-california/billpay",
+        "https://healthy.kaiserpermanente.org/colorado/billpay",
+        "https://healthy.kaiserpermanente.org/georgia/billpay",
+        "https://healthy.kaiserpermanente.org/hawaii/billpay",
+        "https://healthy.kaiserpermanente.org/hawaii/billpay/billing-system-transition-faq"
+      ]
+    },
+    "other:nmp": {
+      "count": 14,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/hawaii/nmp/consumer-interrupt",
+        "https://healthy.kaiserpermanente.org/hawaii/nmp/disaster-planning-policy",
+        "https://healthy.kaiserpermanente.org/hawaii/nmp/forget-userid-password",
+        "https://healthy.kaiserpermanente.org/hawaii/nmp/interrupt",
+        "https://healthy.kaiserpermanente.org/hawaii/nmp/maui-caregiver",
+        "https://healthy.kaiserpermanente.org/hawaii/nmp/maui-health",
+        "https://healthy.kaiserpermanente.org/hawaii/nmp/maui-register",
+        "https://healthy.kaiserpermanente.org/hawaii/nmp/maui-register/maui-help-registration"
+      ]
+    },
+    "other:language-assistance": {
+      "count": 9,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/language-assistance",
+        "https://healthy.kaiserpermanente.org/northern-california/language-assistance",
+        "https://healthy.kaiserpermanente.org/southern-california/language-assistance",
+        "https://healthy.kaiserpermanente.org/colorado/language-assistance",
+        "https://healthy.kaiserpermanente.org/georgia/language-assistance",
+        "https://healthy.kaiserpermanente.org/hawaii/language-assistance",
+        "https://healthy.kaiserpermanente.org/maryland-virginia-washington-dc/language-assistance",
+        "https://healthy.kaiserpermanente.org/oregon-washington/language-assistance"
+      ]
+    },
+    "other:sign-off": {
+      "count": 9,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/sign-off",
+        "https://healthy.kaiserpermanente.org/northern-california/sign-off",
+        "https://healthy.kaiserpermanente.org/southern-california/sign-off",
+        "https://healthy.kaiserpermanente.org/colorado/sign-off",
+        "https://healthy.kaiserpermanente.org/georgia/sign-off",
+        "https://healthy.kaiserpermanente.org/hawaii/sign-off",
+        "https://healthy.kaiserpermanente.org/maryland-virginia-washington-dc/sign-off",
+        "https://healthy.kaiserpermanente.org/oregon-washington/sign-off"
+      ]
+    },
+    "other:consumer-interrupt": {
+      "count": 9,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/consumer-interrupt/kpwa-first-time-migrated",
+        "https://healthy.kaiserpermanente.org/northern-california/consumer-interrupt/kpwa-first-time-migrated",
+        "https://healthy.kaiserpermanente.org/southern-california/consumer-interrupt/kpwa-first-time-migrated",
+        "https://healthy.kaiserpermanente.org/colorado/consumer-interrupt/kpwa-first-time-migrated",
+        "https://healthy.kaiserpermanente.org/georgia/consumer-interrupt/kpwa-first-time-migrated",
+        "https://healthy.kaiserpermanente.org/hawaii/consumer-interrupt/kpwa-first-time-migrated",
+        "https://healthy.kaiserpermanente.org/maryland-virginia-washington-dc/consumer-interrupt/kpwa-first-time-migrated",
+        "https://healthy.kaiserpermanente.org/oregon-washington/consumer-interrupt/kpwa-first-time-migrated"
+      ]
+    },
+    "other:mfaprogram-confirmation": {
+      "count": 9,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/mfaprogram-confirmation",
+        "https://healthy.kaiserpermanente.org/northern-california/mfaprogram-confirmation",
+        "https://healthy.kaiserpermanente.org/southern-california/mfaprogram-confirmation",
+        "https://healthy.kaiserpermanente.org/colorado/mfaprogram-confirmation",
+        "https://healthy.kaiserpermanente.org/georgia/mfaprogram-confirmation",
+        "https://healthy.kaiserpermanente.org/hawaii/mfaprogram-confirmation",
+        "https://healthy.kaiserpermanente.org/maryland-virginia-washington-dc/mfaprogram-confirmation",
+        "https://healthy.kaiserpermanente.org/oregon-washington/mfaprogram-confirmation"
+      ]
+    },
+    "other:forgotuserid": {
+      "count": 9,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/forgotuserid",
+        "https://healthy.kaiserpermanente.org/northern-california/forgotuserid",
+        "https://healthy.kaiserpermanente.org/southern-california/forgotuserid",
+        "https://healthy.kaiserpermanente.org/colorado/forgotuserid",
+        "https://healthy.kaiserpermanente.org/georgia/forgotuserid",
+        "https://healthy.kaiserpermanente.org/hawaii/forgotuserid",
+        "https://healthy.kaiserpermanente.org/maryland-virginia-washington-dc/forgotuserid",
+        "https://healthy.kaiserpermanente.org/oregon-washington/forgotuserid"
+      ]
+    },
+    "other:forgot-password": {
+      "count": 9,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/forgot-password",
+        "https://healthy.kaiserpermanente.org/northern-california/forgot-password",
+        "https://healthy.kaiserpermanente.org/southern-california/forgot-password",
+        "https://healthy.kaiserpermanente.org/colorado/forgot-password",
+        "https://healthy.kaiserpermanente.org/georgia/forgot-password",
+        "https://healthy.kaiserpermanente.org/hawaii/forgot-password",
+        "https://healthy.kaiserpermanente.org/maryland-virginia-washington-dc/forgot-password",
+        "https://healthy.kaiserpermanente.org/oregon-washington/forgot-password"
+      ]
+    },
+    "region-home": {
+      "count": 8,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/northern-california",
+        "https://healthy.kaiserpermanente.org/southern-california",
+        "https://healthy.kaiserpermanente.org/colorado",
+        "https://healthy.kaiserpermanente.org/georgia",
+        "https://healthy.kaiserpermanente.org/hawaii",
+        "https://healthy.kaiserpermanente.org/maryland-virginia-washington-dc",
+        "https://healthy.kaiserpermanente.org/oregon-washington",
+        "https://healthy.kaiserpermanente.org/washington"
+      ]
+    },
+    "other:(region-home)": {
+      "count": 1,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/"
+      ]
+    },
+    "other:cache-manager": {
+      "count": 1,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/cache-manager"
+      ]
+    },
+    "other:engagement": {
+      "count": 1,
+      "sample": [
+        "https://healthy.kaiserpermanente.org/engagement"
+      ]
+    }
+  }
+}

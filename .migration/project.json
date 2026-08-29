@@ -1,0 +1,12 @@
+{
+  "sites": {
+    "demo-eds-author-kit": {
+      "previewOrg": "pradeep-x1-gupta",
+      "previewSite": "demo-eds-author-kit",
+      "contentHostUrl": "https://content.da.live/pradeep-x1-gupta/demo-eds-author-kit/"
+    }
+  },
+  "features": [
+    "site-planning"
+  ]
+}
