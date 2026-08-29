@@ -1,0 +1,146 @@
+{
+  "captured": "2026-08-29T17:59:22.044Z",
+  "totalUrls": 127518,
+  "templateTotals": {
+    "T0": 12,
+    "T3": 2772,
+    "T9": 134,
+    "T1": 17,
+    "T2": 9516,
+    "T7": 9346,
+    "T8": 22155,
+    "T10": 1441,
+    "T4": 7076,
+    "T5": 16957,
+    "T6": 58092
+  },
+  "pivot": {
+    "T0": {
+      "(none)": 2,
+      "hawaii": 10
+    },
+    "T3": {
+      "(none)": 283,
+      "northern-california": 322,
+      "southern-california": 330,
+      "colorado": 297,
+      "georgia": 300,
+      "hawaii": 294,
+      "maryland-virginia-washington-dc": 313,
+      "oregon-washington": 312,
+      "washington": 321
+    },
+    "T9": {
+      "(none)": 14,
+      "northern-california": 15,
+      "southern-california": 15,
+      "colorado": 14,
+      "georgia": 14,
+      "hawaii": 20,
+      "maryland-virginia-washington-dc": 14,
+      "oregon-washington": 14,
+      "washington": 14
+    },
+    "T1": {
+      "(none)": 1,
+      "northern-california": 2,
+      "southern-california": 2,
+      "colorado": 2,
+      "georgia": 2,
+      "hawaii": 2,
+      "maryland-virginia-washington-dc": 2,
+      "oregon-washington": 2,
+      "washington": 2
+    },
+    "T2": {
+      "(none)": 941,
+      "northern-california": 1227,
+      "southern-california": 1103,
+      "colorado": 1090,
+      "georgia": 1086,
+      "hawaii": 984,
+      "maryland-virginia-washington-dc": 1075,
+      "oregon-washington": 1029,
+      "washington": 981
+    },
+    "T7": {
+      "(none)": 9338,
+      "northern-california": 1,
+      "southern-california": 1,
+      "colorado": 1,
+      "georgia": 1,
+      "hawaii": 1,
+      "maryland-virginia-washington-dc": 1,
+      "oregon-washington": 1,
+      "washington": 1
+    },
+    "T8": {
+      "(none)": 22140,
+      "northern-california": 2,
+      "southern-california": 2,
+      "colorado": 2,
+      "georgia": 2,
+      "hawaii": 1,
+      "maryland-virginia-washington-dc": 2,
+      "oregon-washington": 2,
+      "washington": 2
+    },
+    "T10": {
+      "(none)": 129,
+      "northern-california": 147,
+      "southern-california": 177,
+      "colorado": 173,
+      "georgia": 167,
+      "hawaii": 202,
+      "maryland-virginia-washington-dc": 165,
+      "oregon-washington": 164,
+      "washington": 117
+    },
+    "T4": {
+      "northern-california": 1516,
+      "southern-california": 2164,
+      "colorado": 762,
+      "georgia": 417,
+      "hawaii": 1365,
+      "maryland-virginia-washington-dc": 53,
+      "oregon-washington": 764,
+      "washington": 35
+    },
+    "T5": {
+      "northern-california": 4885,
+      "southern-california": 5019,
+      "colorado": 1230,
+      "georgia": 717,
+      "hawaii": 2158,
+      "maryland-virginia-washington-dc": 733,
+      "oregon-washington": 1679,
+      "washington": 536
+    },
+    "T6": {
+      "southern-california": 26674,
+      "colorado": 15810,
+      "georgia": 4086,
+      "hawaii": 904,
+      "oregon-washington": 9289,
+      "washington": 1329
+    }
+  },
+  "unclassified": {
+    "count": 12,
+    "pct": "0.01%",
+    "sample": [
+      "https://healthy.kaiserpermanente.org/",
+      "https://healthy.kaiserpermanente.org/cache-manager",
+      "https://healthy.kaiserpermanente.org/hawaii/nmp/disaster-planning-policy",
+      "https://healthy.kaiserpermanente.org/hawaii/nmp/forget-userid-password",
+      "https://healthy.kaiserpermanente.org/hawaii/nmp/interrupt",
+      "https://healthy.kaiserpermanente.org/hawaii/nmp/maui-caregiver",
+      "https://healthy.kaiserpermanente.org/hawaii/nmp/maui-health",
+      "https://healthy.kaiserpermanente.org/hawaii/nmp/maui-nmc-termsncondition",
+      "https://healthy.kaiserpermanente.org/hawaii/nmp/maui-selfregistration",
+      "https://healthy.kaiserpermanente.org/hawaii/nmp/patient-assistance",
+      "https://healthy.kaiserpermanente.org/hawaii/nmp/rights-responsibilities",
+      "https://healthy.kaiserpermanente.org/hawaii/nmp/technical-information"
+    ]
+  }
+}

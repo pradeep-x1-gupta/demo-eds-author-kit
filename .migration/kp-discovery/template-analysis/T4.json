@@ -1,0 +1,35 @@
+{
+  "template": "T4",
+  "samples": [
+    {
+      "file": "T4_facility.html",
+      "bytes": 386902,
+      "counts": {
+        "h1": 1,
+        "h2": 26,
+        "h3": 42,
+        "p": 41,
+        "img": 88,
+        "picture": 0,
+        "a": 316,
+        "form": 2,
+        "input": 7,
+        "iframe": 0,
+        "ul": 86,
+        "table": 0,
+        "section": 14,
+        "article": 0,
+        "button": 65
+      },
+      "signals": {
+        "hasMap": false,
+        "hasBreadcrumb": false,
+        "hasAccordion": true,
+        "hasCarousel": true,
+        "hasHours": true,
+        "hasPhone": true,
+        "hasVideo": true
+      }
+    }
+  ]
+}

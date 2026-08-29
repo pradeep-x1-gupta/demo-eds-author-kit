@@ -1,0 +1,35 @@
+{
+  "template": "T6",
+  "samples": [
+    {
+      "file": "T6_provider.html",
+      "bytes": 359743,
+      "counts": {
+        "h1": 1,
+        "h2": 23,
+        "h3": 47,
+        "p": 49,
+        "img": 85,
+        "picture": 0,
+        "a": 311,
+        "form": 2,
+        "input": 6,
+        "iframe": 0,
+        "ul": 70,
+        "table": 0,
+        "section": 10,
+        "article": 0,
+        "button": 61
+      },
+      "signals": {
+        "hasMap": false,
+        "hasBreadcrumb": false,
+        "hasAccordion": true,
+        "hasCarousel": true,
+        "hasHours": true,
+        "hasPhone": true,
+        "hasVideo": true
+      }
+    }
+  ]
+}

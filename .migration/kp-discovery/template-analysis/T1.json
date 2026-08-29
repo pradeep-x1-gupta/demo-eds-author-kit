@@ -1,0 +1,35 @@
+{
+  "template": "T1",
+  "samples": [
+    {
+      "file": "T1_frontdoor.html",
+      "bytes": 334901,
+      "counts": {
+        "h1": 0,
+        "h2": 12,
+        "h3": 26,
+        "p": 42,
+        "img": 84,
+        "picture": 0,
+        "a": 241,
+        "form": 2,
+        "input": 4,
+        "iframe": 0,
+        "ul": 53,
+        "table": 0,
+        "section": 11,
+        "article": 0,
+        "button": 39
+      },
+      "signals": {
+        "hasMap": true,
+        "hasBreadcrumb": false,
+        "hasAccordion": true,
+        "hasCarousel": true,
+        "hasHours": true,
+        "hasPhone": true,
+        "hasVideo": true
+      }
+    }
+  ]
+}
