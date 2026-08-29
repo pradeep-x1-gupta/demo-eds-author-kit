@@ -1,0 +1,32 @@
+{
+  "template": "A7",
+  "samples": [
+    {
+      "url": "https://about.kaiserpermanente.org/expertise-and-impact/healthy-communities",
+      "status": 200,
+      "bytes": 140859,
+      "counts": {
+        "h1": 1,
+        "h2": 4,
+        "h3": 54,
+        "p": 4,
+        "img": 0,
+        "a": 142,
+        "form": 2,
+        "iframe": 2,
+        "ul": 16,
+        "table": 0,
+        "figure": 0,
+        "blockquote": 0
+      },
+      "signals": {
+        "hasVideo": true,
+        "hasCarousel": false,
+        "hasAccordion": true,
+        "hasShare": true,
+        "hasDate": false,
+        "hasBreadcrumb": true
+      }
+    }
+  ]
+}

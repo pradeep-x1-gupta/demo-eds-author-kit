@@ -1,0 +1,59 @@
+{
+  "template": "A1",
+  "samples": [
+    {
+      "url": "https://about.kaiserpermanente.org",
+      "status": 200,
+      "bytes": 143322,
+      "counts": {
+        "h1": 0,
+        "h2": 2,
+        "h3": 59,
+        "p": 2,
+        "img": 0,
+        "a": 143,
+        "form": 2,
+        "iframe": 1,
+        "ul": 16,
+        "table": 0,
+        "figure": 0,
+        "blockquote": 0
+      },
+      "signals": {
+        "hasVideo": true,
+        "hasCarousel": false,
+        "hasAccordion": true,
+        "hasShare": true,
+        "hasDate": false,
+        "hasBreadcrumb": false
+      }
+    },
+    {
+      "url": "https://about.kaiserpermanente.org/who-we-are",
+      "status": 200,
+      "bytes": 83935,
+      "counts": {
+        "h1": 1,
+        "h2": 1,
+        "h3": 7,
+        "p": 1,
+        "img": 0,
+        "a": 89,
+        "form": 2,
+        "iframe": 1,
+        "ul": 16,
+        "table": 0,
+        "figure": 0,
+        "blockquote": 0
+      },
+      "signals": {
+        "hasVideo": true,
+        "hasCarousel": false,
+        "hasAccordion": true,
+        "hasShare": true,
+        "hasDate": false,
+        "hasBreadcrumb": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "template": "A3",
+  "samples": [
+    {
+      "url": "https://about.kaiserpermanente.org/news",
+      "status": 200,
+      "bytes": 715552,
+      "counts": {
+        "h1": 1,
+        "h2": 3,
+        "h3": 8,
+        "p": 2,
+        "img": 385,
+        "a": 480,
+        "form": 5,
+        "iframe": 1,
+        "ul": 16,
+        "table": 0,
+        "figure": 0,
+        "blockquote": 0
+      },
+      "signals": {
+        "hasVideo": true,
+        "hasCarousel": false,
+        "hasAccordion": true,
+        "hasShare": true,
+        "hasDate": false,
+        "hasBreadcrumb": true
+      }
+    }
+  ]
+}

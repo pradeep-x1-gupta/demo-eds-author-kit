@@ -1,0 +1,1026 @@
+{
+  "captured": "2026-08-29T18:44:00.443Z",
+  "totalUrls": 144,
+  "templates": {
+    "M1": "Public informational (about-kp)",
+    "M2": "Authenticated intranet content (HR / procurement / tools)",
+    "M3": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+    "M0": "Unclassified (review)"
+  },
+  "disposition": {
+    "M1": "migrate-caveats",
+    "M2": "exclude",
+    "M3": "exclude",
+    "M0": "review"
+  },
+  "urls": [
+    {
+      "url": "https://mykp.kp.org/en.html",
+      "section": "(home)",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/equity-inclusion-and-diversity.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/fast-facts.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/health-public-policy.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/healthy-communities.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/our-commitments.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/our-history.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/our-mission-and-model.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/our-people.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/our-strategy.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/our-strategy/foundational-commitments.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/our-strategy/goals.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/our-strategy/our-strategic-vision.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/structure-and-functions.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/about-kp/who-we-are.html",
+      "section": "about-kp",
+      "template": "M1",
+      "templateName": "Public informational (about-kp)",
+      "disposition": "migrate-caveats"
+    },
+    {
+      "url": "https://mykp.kp.org/en/admin/privacy-practices.html",
+      "section": "admin",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/admin/terms-and-conditions.html",
+      "section": "admin",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/buy.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/buy/contract-process.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/buy/expenses-and-travel.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/buy/invoicing.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/buy/manage-credit-card.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/buy/order-device-software.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/buy/order-medical-supplies.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/buy/order-office-supplies.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/buy/request-services.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/colorado/colorado-weather.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/colorado/flu-information.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/colorado/growth.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/hawaii/hawaii-flu-resources.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/help.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/hr/recognition.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/hr/workforce-well-being/manager-playbook.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/hr/workforce-well-being/mental-health-resources.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/hr/workforce-well-being/support/well-being-tips.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/learn.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/learn.html?tab=ForManagers",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/national/flu.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/national/team-development-and-culture.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/northwest/northwest.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/scal/flu-resources.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/washington/growth.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/content/washington/kp-washington-integrated-turn-around-initiatives.html",
+      "section": "content",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/feedback.html",
+      "section": "feedback.html",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/family-benefits/benefits-voluntary-programs.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/family-benefits/family-resources.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/family-benefits/life-events/life-events-family-children.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/family-benefits/self-family-community.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/family-benefits/self-family-community/injured-at-work.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/insurance-and-disability.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/my-health-benefits.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/my-health-benefits/benefits-documents/all-documents.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/my-health-benefits/benefits-enrollment/enrollment-steps/understand-your-options.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/my-health-benefits/my-beneficiaries.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/retirement.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/benefits/ways-to-save/flexible-spending-accounts.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/career.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/career/education-assistance.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/career/manage-career.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/financial-wellness/financial-resources.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/forms-catalog.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/forms-catalog/manager.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/compensation.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/compensation/annual-compensation-cycle/my-executives/communicate-pay.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/compensation/annual-compensation-cycle/my-executives/make-pay-decisions.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/compensation/annual-compensation.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/compensation/inline-career-promotion/steps/submit-promotion-recommendations.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/compensation/pay-programs.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/manage-team-time-off-absences.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/manager-report-catalog.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/ctmp.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/ctmp/consulting-professional-services.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/ctmp/terminate-contingent-worker.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/fill-a-position-employee/manager/create-a-requisition.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/fill-a-position-executive/manager/open-a-requisition.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/hr-action-guides.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/hr-action-guides/delegation-and-access/delegation.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/managing-represented-employees.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/talent-planning/jobs-overview.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/money/financial-assistance.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/money/pay.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/money/pay/pay-calendar.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/money/taxes.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/perform-and-grow.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/perform-and-grow/development.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/perform-and-grow/performance-improvement.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/safety-and-security.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/safety-and-security/online-safety.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/safety-and-security/personal-safety.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/safety-and-security/safety-at-work.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/attendance-tools.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/leave-of-absence.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/managing-meal-and-rest-periods.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/meal-and-rest-periods.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/timekeeping/salaried-employee.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/timekeeping/timekeeping-process/employee.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/timekeeping/timekeeping-process/manager-hourly-special-exempt.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/timekeeping/timekeeping-process/manager-salaried.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/timekeeping/timekeeping-process/manager.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/timeoff/holidays.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/timeoff/my-time-off-benefits.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/time/work-schedules/flexible-arrangement.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/videos/boost-feedback-learning-journey.html",
+      "section": "hr",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/wellness.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/wellness.html?tab=ForManagers",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/wellness/employee-assistance.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/wellness/mental-health.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/wellness/physical-health.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/wellness/well-being-tips.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/compliance/condition-of-employment-training.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/compliance/employment-law-postings.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/compliance/hr-policies/policies.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/compliance/license-certifications-and-registrations.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/compliance/regulatory-file-compliance.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/culture-and-diversity/people-pulse.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/employment/employment-verification.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/employment/involuntary-termination.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/employment/voluntary-termination-resignation.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/employment/voluntary-termination-resignation/employee.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/employment/voluntary-termination-resignation/manager.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/flexible-and-remote-work.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/labor-contracts/local-contracts.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/labor-contracts/my-agreements.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/personal-information/personal-data-change.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/work-environment-issues/report-issue.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/hr/work-at-kp/workplace-safety/disability-resources-and-job-accommodations.html",
+      "section": "hr",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/maui-health.html",
+      "section": "maui-health.html",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/news",
+      "section": "news",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/news.html?type=all-news",
+      "section": "news.html",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/profile-preferences.html",
+      "section": "profile-preferences.html",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/tasks.html",
+      "section": "tasks.html",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/tools/all-tools.html",
+      "section": "tools",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/tools/favorites.html",
+      "section": "tools",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/en/tools/tools-sort.html",
+      "section": "tools",
+      "template": "M2",
+      "templateName": "Authenticated intranet content (HR / procurement / tools)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/etc.clientlibs/kp-comms/components/content/media-text-wrap/clientlibs.min.d41d8cd98f00b204e9800998ecf8427e.css",
+      "section": "kp-comms",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/etc.clientlibs/kp-comms/components/content/value-prop/clientlibs.min.d41d8cd98f00b204e9800998ecf8427e.css",
+      "section": "kp-comms",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp-aem-base/clientlibs/clientlib-dependencies.min.cfef4d1b7c47f16f6bf7748de5fe62c5.css",
+      "section": "org",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-all.min.760383bcd657d75e12dd23f4a4544782.css",
+      "section": "org",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-site/resources/apple-touch-icon-120x120.png",
+      "section": "org",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-site/resources/apple-touch-icon-152x152.png",
+      "section": "org",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-site/resources/apple-touch-icon-167x167.png",
+      "section": "org",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-site/resources/apple-touch-icon-180x180.png",
+      "section": "org",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-site/resources/icon-192x192.png",
+      "section": "org",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    },
+    {
+      "url": "https://mykp.kp.org/sign-in.html",
+      "section": "(home)",
+      "template": "M3",
+      "templateName": "Auth / utility / assets (sign-in, clientlibs, feedback)",
+      "disposition": "exclude"
+    }
+  ]
+}

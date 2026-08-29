@@ -1,0 +1,52 @@
+{
+  "captured": "2026-08-29T18:45:28.762Z",
+  "totalUrls": 836,
+  "templateTotals": {
+    "A1": 3,
+    "A3": 1,
+    "A2": 515,
+    "A4": 133,
+    "A5": 22,
+    "A6": 47,
+    "A7": 101,
+    "A8": 12,
+    "A9": 2
+  },
+  "sectionPivot": {
+    "A1": {
+      "(home)": 1,
+      "who-we-are": 1,
+      "expertise-and-impact": 1
+    },
+    "A3": {
+      "news": 1
+    },
+    "A2": {
+      "news": 515
+    },
+    "A4": {
+      "who-we-are": 133
+    },
+    "A5": {
+      "who-we-are": 22
+    },
+    "A6": {
+      "who-we-are": 47
+    },
+    "A7": {
+      "expertise-and-impact": 101
+    },
+    "A8": {
+      "expertise-and-impact": 12
+    },
+    "A9": {
+      "rss-feeds": 1,
+      "site-feedback": 1
+    }
+  },
+  "unclassified": {
+    "count": 0,
+    "pct": "0.00%",
+    "sample": []
+  }
+}

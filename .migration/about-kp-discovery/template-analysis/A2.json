@@ -1,0 +1,32 @@
+{
+  "template": "A2",
+  "samples": [
+    {
+      "url": "https://about.kaiserpermanente.org/news/press-release-archive/high-quality-care",
+      "status": 200,
+      "bytes": 232459,
+      "counts": {
+        "h1": 1,
+        "h2": 1,
+        "h3": 107,
+        "p": 107,
+        "img": 100,
+        "a": 202,
+        "form": 2,
+        "iframe": 1,
+        "ul": 19,
+        "table": 0,
+        "figure": 0,
+        "blockquote": 0
+      },
+      "signals": {
+        "hasVideo": true,
+        "hasCarousel": true,
+        "hasAccordion": true,
+        "hasShare": true,
+        "hasDate": true,
+        "hasBreadcrumb": true
+      }
+    }
+  ]
+}

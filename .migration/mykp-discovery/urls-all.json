@@ -1,0 +1,448 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-29T18:44:00.420Z",
+    "totalUrls": 144,
+    "totalDocuments": 0,
+    "method": "landing-link-surface",
+    "sitemapURL": null,
+    "robotsTxtFound": true,
+    "robotsTxtRulesApplied": true,
+    "limitations": "robots.txt Disallows /en/ (entire content tree) and both sitemaps (/sitemap.xml returns 404). Site is an authenticated employee intranet (MyKP). Inventory limited to the public landing-page link surface; authenticated content was NOT crawled (respecting robots.txt + no credentials). A complete inventory requires an export from the intranet CMS or an authenticated URL list.",
+    "confidence": "60% (public surface only)",
+    "urls": [
+      {
+        "url": "https://mykp.kp.org/en.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/equity-inclusion-and-diversity.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/fast-facts.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/health-public-policy.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/healthy-communities.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/our-commitments.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/our-history.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/our-mission-and-model.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/our-people.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/our-strategy.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/our-strategy/foundational-commitments.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/our-strategy/goals.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/our-strategy/our-strategic-vision.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/structure-and-functions.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/about-kp/who-we-are.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/admin/privacy-practices.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/admin/terms-and-conditions.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/buy.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/buy/contract-process.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/buy/expenses-and-travel.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/buy/invoicing.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/buy/manage-credit-card.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/buy/order-device-software.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/buy/order-medical-supplies.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/buy/order-office-supplies.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/buy/request-services.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/colorado/colorado-weather.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/colorado/flu-information.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/colorado/growth.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/hawaii/hawaii-flu-resources.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/help.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/hr/recognition.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/hr/workforce-well-being/manager-playbook.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/hr/workforce-well-being/mental-health-resources.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/hr/workforce-well-being/support/well-being-tips.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/learn.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/learn.html?tab=ForManagers"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/national/flu.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/national/team-development-and-culture.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/northwest/northwest.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/scal/flu-resources.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/washington/growth.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/content/washington/kp-washington-integrated-turn-around-initiatives.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/feedback.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/family-benefits/benefits-voluntary-programs.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/family-benefits/family-resources.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/family-benefits/life-events/life-events-family-children.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/family-benefits/self-family-community.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/family-benefits/self-family-community/injured-at-work.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/insurance-and-disability.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/my-health-benefits.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/my-health-benefits/benefits-documents/all-documents.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/my-health-benefits/benefits-enrollment/enrollment-steps/understand-your-options.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/my-health-benefits/my-beneficiaries.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/retirement.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/benefits/ways-to-save/flexible-spending-accounts.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/career.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/career/education-assistance.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/career/manage-career.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/financial-wellness/financial-resources.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/forms-catalog.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/forms-catalog/manager.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/compensation.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/compensation/annual-compensation-cycle/my-executives/communicate-pay.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/compensation/annual-compensation-cycle/my-executives/make-pay-decisions.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/compensation/annual-compensation.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/compensation/inline-career-promotion/steps/submit-promotion-recommendations.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/compensation/pay-programs.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/manage-team-time-off-absences.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/manager-report-catalog.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/ctmp.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/ctmp/consulting-professional-services.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/ctmp/terminate-contingent-worker.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/fill-a-position-employee/manager/create-a-requisition.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/fill-a-position-executive/manager/open-a-requisition.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/hr-action-guides.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/hr-action-guides/delegation-and-access/delegation.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/managing-represented-employees.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/manager-tools/plan-and-hire/talent-planning/jobs-overview.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/money/financial-assistance.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/money/pay.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/money/pay/pay-calendar.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/money/taxes.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/perform-and-grow.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/perform-and-grow/development.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/perform-and-grow/performance-improvement.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/safety-and-security.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/safety-and-security/online-safety.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/safety-and-security/personal-safety.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/safety-and-security/safety-at-work.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/attendance-tools.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/leave-of-absence.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/managing-meal-and-rest-periods.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/meal-and-rest-periods.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/timekeeping/salaried-employee.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/timekeeping/timekeeping-process/employee.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/timekeeping/timekeeping-process/manager-hourly-special-exempt.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/timekeeping/timekeeping-process/manager-salaried.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/timekeeping/timekeeping-process/manager.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/timeoff/holidays.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/timeoff/my-time-off-benefits.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/time/work-schedules/flexible-arrangement.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/videos/boost-feedback-learning-journey.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/wellness.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/wellness.html?tab=ForManagers"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/wellness/employee-assistance.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/wellness/mental-health.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/wellness/physical-health.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/wellness/well-being-tips.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/compliance/condition-of-employment-training.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/compliance/employment-law-postings.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/compliance/hr-policies/policies.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/compliance/license-certifications-and-registrations.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/compliance/regulatory-file-compliance.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/culture-and-diversity/people-pulse.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/employment/employment-verification.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/employment/involuntary-termination.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/employment/voluntary-termination-resignation.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/employment/voluntary-termination-resignation/employee.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/employment/voluntary-termination-resignation/manager.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/flexible-and-remote-work.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/labor-contracts/local-contracts.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/labor-contracts/my-agreements.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/personal-information/personal-data-change.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/work-environment-issues/report-issue.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/hr/work-at-kp/workplace-safety/disability-resources-and-job-accommodations.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/maui-health.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/news"
+      },
+      {
+        "url": "https://mykp.kp.org/en/news.html?type=all-news"
+      },
+      {
+        "url": "https://mykp.kp.org/en/profile-preferences.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/tasks.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/tools/all-tools.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/tools/favorites.html"
+      },
+      {
+        "url": "https://mykp.kp.org/en/tools/tools-sort.html"
+      },
+      {
+        "url": "https://mykp.kp.org/etc.clientlibs/kp-comms/components/content/media-text-wrap/clientlibs.min.d41d8cd98f00b204e9800998ecf8427e.css"
+      },
+      {
+        "url": "https://mykp.kp.org/etc.clientlibs/kp-comms/components/content/value-prop/clientlibs.min.d41d8cd98f00b204e9800998ecf8427e.css"
+      },
+      {
+        "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp-aem-base/clientlibs/clientlib-dependencies.min.cfef4d1b7c47f16f6bf7748de5fe62c5.css"
+      },
+      {
+        "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-all.min.760383bcd657d75e12dd23f4a4544782.css"
+      },
+      {
+        "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-site/resources/apple-touch-icon-120x120.png"
+      },
+      {
+        "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-site/resources/apple-touch-icon-152x152.png"
+      },
+      {
+        "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-site/resources/apple-touch-icon-167x167.png"
+      },
+      {
+        "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-site/resources/apple-touch-icon-180x180.png"
+      },
+      {
+        "url": "https://mykp.kp.org/etc.clientlibs/org/kp/mykp/mykp/clientlibs/clientlib-site/resources/icon-192x192.png"
+      },
+      {
+        "url": "https://mykp.kp.org/sign-in.html"
+      }
+    ],
+    "documents": []
+  }
+}

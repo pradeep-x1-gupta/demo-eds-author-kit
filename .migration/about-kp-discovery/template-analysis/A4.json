@@ -1,0 +1,32 @@
+{
+  "template": "A4",
+  "samples": [
+    {
+      "url": "https://about.kaiserpermanente.org/who-we-are/our-history",
+      "status": 200,
+      "bytes": 272767,
+      "counts": {
+        "h1": 1,
+        "h2": 4,
+        "h3": 9,
+        "p": 3,
+        "img": 118,
+        "a": 217,
+        "form": 3,
+        "iframe": 1,
+        "ul": 16,
+        "table": 0,
+        "figure": 0,
+        "blockquote": 0
+      },
+      "signals": {
+        "hasVideo": true,
+        "hasCarousel": false,
+        "hasAccordion": true,
+        "hasShare": true,
+        "hasDate": true,
+        "hasBreadcrumb": true
+      }
+    }
+  ]
+}
